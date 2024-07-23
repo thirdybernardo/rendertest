@@ -83,3 +83,18 @@
     font-size: 1rem;
   }
 }
+@media (max-width: 376px) {
+  .hero {
+    padding: 5px;
+  }
+
+  .hero-title {
+    font-size: 1.6rem;
+    width: 80%;
+  }
+
+  .hero-paragraph {
+    font-size: 1rem;
+    width: 58%;
+  }
+}
